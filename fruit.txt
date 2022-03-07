@@ -1,5 +1,9 @@
 alma 
 körte
+<<<<<<< HEAD
 barack-szilva
 eper
 dió
+szilva-barack
+eper
+ribizli
